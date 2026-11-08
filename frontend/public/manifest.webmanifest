@@ -1,0 +1,18 @@
+{
+  "name": "AgriConnect Togo",
+  "short_name": "AgriConnect",
+  "description": "Le marché agricole local au Togo",
+  "lang": "fr",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffefa",
+  "theme_color": "#257349",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
